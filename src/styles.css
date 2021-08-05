@@ -226,6 +226,7 @@ form {
 }
 
 .authBtn {
+  margin-top: 50px;
   cursor: pointer;
   border-radius: 20px;
   border: none;
@@ -254,7 +255,8 @@ form {
   text-align: center;
   background: #04aaff;
   color: white;
-  margin-top: 10;
+  margin-top: 0;
+  
   cursor: pointer;
 }
 
